@@ -85,8 +85,8 @@ pixelated-title-card/
 ├── index.html
 ├── script.js             # Exports PixelatedTextEffect and applyPixelatedTextTo
 ├── styles.css
-├── media/
-│   └── preview.gif
+├── assets/
+│   └── fonts
 └── README.md
 ```
 
